@@ -6,11 +6,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/blazecoding2009?label=Follow&style=social)](https://github.com/blazecoding2009)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/zyQzJeZ7CY)](https://discord.gg/zyQzJeZ7CY)
 
-*Hi! I'm Arnnav, a 13 year old student and developer in Oakville, Ontario. I am in various development groups such as, Votion Development, Hyricon Development and HyperZ Development. I'm also a hosting company owner/founder. I own a few small Minecraft Servers such as DuinoCraft. I'm also a crypto enthusiast and system administrator.*
+*Hi! I'm Arnnav, a 14 year old student and developer in Oakville, Ontario. I am in various development groups such as, Votion Development, and FRC 1360. I'm also a hosting company founder. I'm also a crypto enthusiast, 3d printer nerd and system administrator.*
 
 <b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
-
-**[Join Discord][discord]**
 
 ## 🔧 Technologies & Tools
 
@@ -72,7 +70,7 @@ Sunday       53 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               17 hrs 49 mins      █████████████████░░░░░░░░   69.16% 
+Java                    17 hrs 49 mins      █████████████████░░░░░░░░   69.16% 
 EJS                      3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74% 
 CSS                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.58% 
 Markdown                 51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
@@ -110,4 +108,3 @@ C                        1 repo              ░░░░░░░░░░░�
 
 [website]: https://blazecoding.me
 [twitter]: https://twitter.com/Cblaze1111
-[discord]: https://discord.gg/zyQzJeZ7CY
