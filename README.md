@@ -44,7 +44,6 @@
 💻 Operating System: 
 Windows                  250 hrs 46 mins      █████████████████████████   100.0%
 
-```
 
 **I Mostly Code in Java and Python**
 
