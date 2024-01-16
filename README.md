@@ -1,8 +1,8 @@
 ### 🔥[Blaze][website]🔥
 
 ![](https://komarev.com/ghpvc/?username=blazecoding2009&label=Views&color=lightgrey)
-[![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://blazecoding.me)](https://blazecoding.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/cblaze1111?label=Follow)](https://twitter.com/intent/follow?screen_name=cblaze1111)
+[![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://blazecoding.xyz)](https://blazecoding.xyz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cblaze1111?label=Follow)](https://twitter.com/intent/follow?screen_name=blaze3dp)
 [![GitHub followers](https://img.shields.io/github/followers/blazecoding2009?label=Follow&style=social)](https://github.com/blazecoding2009)
 
 *Hi! I'm Arnnav, a 14 year old student and developer in Oakville, Ontario. I am in various development groups such as, Votion Development, and FRC 1360. I'm also a hosting company founder. I'm also a crypto enthusiast, 3d printer nerd and system administrator.*
