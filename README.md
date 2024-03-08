@@ -5,9 +5,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/cblaze1111?label=Follow)](https://twitter.com/intent/follow?screen_name=blaze3dp)
 [![GitHub followers](https://img.shields.io/github/followers/blazecoding2009?label=Follow&style=social)](https://github.com/blazecoding2009)
 
-*Hi! I'm Arnnav, a 15 year old student and developer in Oakville, Ontario. I am in various development groups such as, Votion Development, and FRC 1360. I'm also a hosting company founder. I'm also a crypto enthusiast, 3d printer nerd and system administrator.*
+*Hi! I'm Arnnav, a 15 year old student and developer in Oakville, Ontario. I am in various development groups such as, Votion Development, and FRC 1360. I'm also a hosting company founder. I'm also a 3d printing enthusiast and system administrator.*
 
-[![Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazecoding2009)](https://github.com/anuraghazra/github-readme-stats)
+[![Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazecoding2009&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
 
