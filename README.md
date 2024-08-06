@@ -6,7 +6,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/blazecoding2009?label=Follow&style=social)](https://github.com/blazecoding2009)
 
 *Hey I'm Arnnav*
+
 I'm a 15 year old programmer, gamer and 3d printing nerd
+
 Recently, I've been a part of a few projects such as [OnBoard](https://github.com/hackclub/OnBoard/), and [Forge](https://github.com/EmperorNumerius/Forge)
 I'm currently the:
 - Programming co-lead at [FRC 1360 Orbit Robotics](https://1360.ca)
