@@ -7,7 +7,7 @@
 
 *Hey I'm Arnnav*
 
-I'm a 15 year old programmer, gamer and 3d printing nerd
+I'm a 16 year old programmer, gamer and 3d printing nerd
 
 Recently, I've been a part of a few projects such as [OnBoard](https://github.com/hackclub/OnBoard/), and [Forge](https://github.com/EmperorNumerius/Forge)
 I'm currently:
