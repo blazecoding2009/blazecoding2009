@@ -1,4 +1,4 @@
-### 🔥[Blaze][website]🔥
+### 🔥[blaze][website]🔥
 
 ![](https://komarev.com/ghpvc/?username=blazecoding2009&label=Views&color=lightgrey)
 [![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://blazecoding.xyz)](https://blazecoding.xyz)
