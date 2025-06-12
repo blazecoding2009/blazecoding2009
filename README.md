@@ -10,13 +10,9 @@
 I'm a 15 year old programmer, gamer and 3d printing nerd
 
 Recently, I've been a part of a few projects such as [OnBoard](https://github.com/hackclub/OnBoard/), and [Forge](https://github.com/EmperorNumerius/Forge)
-I'm currently the:
-- Programming co-lead at [FRC 1360 Orbit Robotics](https://1360.ca)
-- WOSS Computer Science Practical Executive
-- OnBoard Reviewing Team
+I'm currently:
+- Member of build and programming subteam at [FRC 1360 Orbit Robotics](https://1360.ca)
 - Forge PCB Designer and Tester
-- Logistics Team at Hack Canada
-- Sponsorships at RagnoHacks
 
 [![Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazecoding2009&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
